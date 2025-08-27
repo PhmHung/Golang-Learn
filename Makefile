@@ -1,8 +1,10 @@
 # Makefile cho dự án học Go
 
 hello:
-	go run "Beginner Go/Ch01-DataTypes-AND-Variables/HelloWorld/hello.go"
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/HelloWorld/hello.go"
 
 printing:
-	go run "Beginner Go/Ch01-DataTypes-AND-Variables/Printing/printing.go"
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/Printing/printing.go"
 
+type_casting:
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/type-casting/type.go"
