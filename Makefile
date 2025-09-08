@@ -8,3 +8,6 @@ printing:
 
 type_casting:
 	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/type-casting/type.go"
+
+user_input:
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/user-input/input.go"
