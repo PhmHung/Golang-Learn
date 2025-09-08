@@ -11,3 +11,8 @@ type_casting:
 
 user_input:
 	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/user-input/input.go"
+var_declare:
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/variable-declaration/var.go"
+
+var_scope:
+	go run "BeginnerGo/Ch01-DataTypes-AND-Variables/variables-scope/main.go"
